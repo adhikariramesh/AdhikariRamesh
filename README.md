@@ -1,3 +1,4 @@
+![logo](https://github.com/adhikariramesh/AdhikariRamesh/blob/main/ramesh%20(1).png)
 <h1 align="center">Hi 👋, I'm Ramesh Prasad Adhikaari</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
