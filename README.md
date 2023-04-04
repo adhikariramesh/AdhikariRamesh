@@ -1,4 +1,4 @@
-![logo](https://github.com/adhikariramesh/AdhikariRamesh/blob/main/ramesh%20(1).png)
+![logo](https://github.com/adhikariramesh/AdhikariRamesh/blob/main/Light%20Blue%20Orange%20Black%20Expressive%20Shapes%20Gain%20Volunteers%20Raise%20Funds%20Banner.png)
 <h1 align="center">Hi 👋, I'm Ramesh Prasad Adhikaari</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
